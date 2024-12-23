@@ -5,7 +5,7 @@ The quantum virtualization are a mathematical solutions for solving entrophy to 
 
 That is a quantum dimension?
 
-In computer programming quantum dimention is a virtual environment that is a place but doesn't necessarily exist, it is there but it not there. Picture this in physics the universe is made of neutrons and electrons which makes an atom.
+In computer programming quantum dimention is a virtual environment that is a place but doesn't necessarily exist, it is there but it not there. Picture this in physics the universe is made of neutrons and electrons which makes an atom and all these atoms are identical because these are made by just one entity a single quantum particle that exist in moment of infinit moments which makes up the entrire observable and invisible universe.
 
 Test application:
 
